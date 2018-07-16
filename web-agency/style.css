@@ -1,0 +1,141 @@
+
+ul,li{
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+
+h2{
+	font-size: 30px;
+
+
+
+
+}
+h3{
+	font-size: 19px;
+}
+
+
+
+
+/*******************************************************************************************/
+
+
+.header{
+	padding: 48px 0;
+
+}
+
+
+.menu__item{
+	margin:0 10px;
+}
+
+.menu__item a{
+	width: 104px;
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
+
+.offer{
+	background: url(img/stock.png) no-repeat center top rgba(0, 0, 0, 0.7);
+	height: 840px;
+	width: 100%;
+	color: #ffffff;
+	padding-top:607px;
+
+}
+
+.offer__title{
+	font-size: 65px;
+
+}
+
+.offer__text{
+	font-size: 31px;
+}
+
+.button{
+	background-color: #e8bf5d;
+	outline: none;
+	border: 0;
+	border-radius:30px;
+	width: 170px;
+	height: 50px;
+	margin-top:50px;
+	cursor:pointer;
+}
+
+.about{
+	padding: 100px 0;
+
+}
+
+
+.about__number{
+	font-size: 170px;
+	color:#f3f3f3;
+	position: absolute;
+	bottom:0px;
+
+
+
+}
+.about__title{
+	position: relative;
+
+}
+.about__text{
+	position: relative;
+	width: 735px;
+	color: #acacac;
+	font-size: 20px;
+	margin-bottom: 85px;
+
+}
+
+.about__history{
+
+
+}
+
+.about__year{
+	font-size: 21px;
+	font-weight: bold;
+	margin: 32px 0;
+}
+.about__year span{
+
+	margin-left:10px;
+}
+.about__txt{
+
+	margin-top: 37px;
+}
+
+
+.about__expertise{
+	width: 480px;
+	font-size: 14px;
+	color:#666666;
+	line-height: 30px;
+}
+
+.practis{
+	background-color: #111111;
+	padding: 100px 0;
+}
+
+
+.practis__title{
+	color: #ffffff;
+}
+.practis__text{
+	font-size: 21px;
+	color:#a9a9a9;
+}
